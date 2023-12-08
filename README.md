@@ -1,1 +1,1 @@
-# matplotlib-challenge
+For this challenge, we were given two CSV files that had information on 249 mice that were used as test subjects. These mice all had tumors and were given various forms of treatment. In this code we evaluated the different types of treatments using pandas and scipy. We then took our analysis and visualized it using matplotlib.
